@@ -1,0 +1,17 @@
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.csproj.AssemblyReference.cache
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.AssemblyInfoInputs.cache
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.AssemblyInfo.cs
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.csproj.CoreCompileInputs.cache
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/bin/Debug/net7.0/VuokranIndeksiTarkistus
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/bin/Debug/net7.0/VuokranIndeksiTarkistus.deps.json
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/bin/Debug/net7.0/VuokranIndeksiTarkistus.runtimeconfig.json
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/bin/Debug/net7.0/VuokranIndeksiTarkistus.dll
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/bin/Debug/net7.0/VuokranIndeksiTarkistus.pdb
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/bin/Debug/net7.0/Spectre.Console.dll
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.csproj.CopyComplete
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.dll
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/refint/VuokranIndeksiTarkistus.dll
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.pdb
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/VuokranIndeksiTarkistus.genruntimeconfig.cache
+/Users/s2200692/C-harjoitukset/VuokranIndeksiTarkistus/obj/Debug/net7.0/ref/VuokranIndeksiTarkistus.dll
